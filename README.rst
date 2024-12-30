@@ -1,6 +1,8 @@
 Django-BuyMeACoffee
 ===================
 
+[![Upload Python Package](https://github.com/Qoyyuum/django_buymeacoffee/actions/workflows/python-publish.yml/badge.svg?branch=main)](https://github.com/Qoyyuum/django_buymeacoffee/actions/workflows/python-publish.yml)
+
 Django-BuyMeACoffee is a Django application that integrates the Buy Me A Coffee API into your Django project. The app provides a simple way to create a Buy Me A Coffee page and accept donations from users.
 
 The app provides the following features:
